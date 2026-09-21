@@ -1,0 +1,18 @@
+# Build output
+build/
+_build/
+
+# Provisioning: the key is secret and the generated sources are per-device.
+key.c
+time.c
+*.key
+
+# The EM9305 SDK is licensed to you and must never be committed.
+external/EM9305_SDK/
+
+# Editor, tooling and OS noise
+.vscode/
+.cache/
+compile_commands.json
+__pycache__/
+.sc.project/
