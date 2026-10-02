@@ -1,0 +1,3 @@
+[submodule "external/hubble-device-sdk"]
+	path = external/hubble-device-sdk
+	url = https://github.com/HubbleNetwork/hubble-device-sdk.git
